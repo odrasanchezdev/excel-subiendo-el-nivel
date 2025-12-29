@@ -1,4 +1,4 @@
-# EXCEL: Subiendo de nivel
+# EXCEL: Subiendo el nivel
 
 ## Descripción
 > Serie de prácticas y ejercicios en formato XLSX, ideales para incrementar e impulsar el uso y herramientas de Microsoft Excel. Los materiales están diseñados para facilitar la comprensión de conceptos y fórmulas fundamentales, y se encuentran estructurados en módulos temáticos con instrucciones, notas y comentarios en español.
